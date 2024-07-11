@@ -10,6 +10,6 @@ As an experienced software engineering innovator with over 20 years in startup a
 
 ---
 
-**Startup Engineering Leader**  
+**Startup Engineering Innovator**  
 Los Angeles, California ⩙ Remote  
 [LinkedIn](https://www.linkedin.com/in/keolo) ⩙ [Keolo.co](https://keolo.co)
