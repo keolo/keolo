@@ -4,7 +4,7 @@ As an experienced software engineering leader with over 20 years in startup and 
 
 - 🚀 15+ startups, 5 exits (and counting) as an IC/Manager
 - 🦾 20+ years of startup, mid-market, and enterprise experience
-- 🙌 3.6M+ downloads of open source library
+- 🙌 3.6M+ downloads of open source library (mixpanel_client)
 - 👨‍🚀 Founder, Fractional CTO, Head of Engineering, Engineering Manager, Founding/Lead Engineer
 - 🖲️ Python, Go, Flutter, Google Cloud Platform
 
