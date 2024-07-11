@@ -8,6 +8,8 @@ As an experienced software engineering leader with over 20 years in startup and 
 - 👨‍🚀 Founder, Fractional CTO, Head of Engineering, Engineering Manager, Founding/Lead Engineer
 - 🖲️ Python, Go, Flutter, Google Cloud Platform
 
+---
+
 **Startup Engineering Leader**  
 Los Angeles, California ⩙ Remote  
 [LinkedIn](https://www.linkedin.com/in/keolo) ⩙ [Keolo.co](https://keolo.co)
