@@ -12,3 +12,5 @@ As an experienced software innovator with over 20 years in startup and heavily r
 - 🙌 3.6M+ downloads of open source library (mixpanel_client)
 - 👨‍🚀 Founder, Fractional CTO, Head of Engineering, Engineering Manager, Founding/Lead Engineer
 - 🖲️ Python, Go, Flutter, Google Cloud Platform
+
+Fun Fact**: I lived abroad (Argentina) for a summer as a teenager, stayed with a family, and absorbed their culture. It sparked my passion for connecting with people and ideas from around the world!
