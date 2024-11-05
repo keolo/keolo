@@ -4,7 +4,7 @@ As an experienced technology innovator in startup and heavily regulated environm
 
 - 🚀 15+ startups, 5 exits (and counting) as an IC/Manager
 - 🦾 20+ years of startup, mid-market, and enterprise experience
-- 🙌 3.6M+ downloads of open source library (mixpanel_client)
+- 🙌 3.8M+ downloads of open source library ([mixpanel_client](https://rubygems.org/gems/mixpanel_client))
 - 👨‍🚀 Founder, Fractional CTO, Head of Engineering, Engineering Manager, Founding/Lead Engineer
 - 🖲️ Python, Go, Flutter, Google Cloud Platform 
 
