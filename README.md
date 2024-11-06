@@ -8,4 +8,4 @@ As an experienced technology innovator in startup and heavily regulated environm
 - 👨‍🚀 Founder, Fractional CTO, Head of Engineering, Engineering Manager, Founding/Lead Engineer
 - 🖲️ Python, Go, Flutter, Google Cloud Platform 
 
-**Fun Fact**: I lived abroad (Argentina) for a summer as a teenager, stayed with a family, and absorbed their culture. It sparked my passion for connecting with people and ideas from around the world!
+**Fun Fact**: One summer as a teenager, I found myself immersed in the vibrant culture of Argentina, staying with a local family. The experience ignited my passion for building connections with people and perspectives from around the world.
