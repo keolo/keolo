@@ -1,11 +1,18 @@
 ## Hi, I'm Keolo 👋
 
-As an experienced technology innovator in startup and heavily regulated environments, **I combine strategic insight, team-building expertise, and a passion for innovation to drive impactful solutions, accelerating next generation ventures**.
+With over 20 years of product/engineering/strategy experience, I've had the privilege of driving innovation and delivering impactful solutions across startups, mid-market, and enterprise environments. My journey spans contributions to 15+ startups, including 5 successful exits (as an IC/Manager), and remarkably, millions of downloads for my open-source library, `mixpanel_client`.
 
-- 🚀 15+ startups, 5 exits (and counting) as an IC/Manager
-- 🦾 20+ years of startup, mid-market, and enterprise experience
-- 🙌 3.8M+ downloads of open source library ([mixpanel_client](https://rubygems.org/gems/mixpanel_client))
-- 👨‍🚀 Founder, Fractional CTO, Head of Engineering, Engineering Manager, Founding/Lead Engineer
-- 🖲️ Python, Go, Flutter, Google Cloud Platform 
+### What I Do
 
-**Fun Fact**: One summer as a teenager, I found myself immersed in the vibrant culture of Argentina, staying with a local family. The experience ignited my passion for building connections with people and perspectives from around the world.
+I specialize in crafting **data-driven, real-time, people-first platforms** that leverage cutting-edge AI and cloud technologies. My expertise lies in building scalable systems, leading globally distributed teams, and turning ideas into successful ventures.
+
+### Why Connect?
+
+Want to talk tech and/or startups?
+
+---
+
+- **Languages**: Python, Go, Dart, JavaScript 
+- **Frameworks**: Flutter, FastAPI, NumPy, React, Astro 
+- **Cloud**: GCP, Kubernetes, Pulumi, BigQuery, Vertex AI 
+- **Tools**: ClickUp, Jira, Linear, Miro, Notion, Figma, Project IDX 
