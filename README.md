@@ -16,4 +16,4 @@ Want to collaborate on tech enabled startups? Let's connect on [LinkedIn](https:
 - **Frameworks**: Flutter, FastAPI, NumPy, React, Astro
 - **Cloud**: GCP, Kubernetes, Pulumi, BigQuery, Vertex AI
 - **Tools**: ClickUp, Jira, Linear, Miro, Notion, Figma, Project IDX
-- **Methods**: Psycological Safety, Team Topologies, Clean Architecture
+- **Principals**: Psycological Safety, Team Topologies, Clean Architecture
