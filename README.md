@@ -12,7 +12,7 @@ Want to collaborate on tech enabled startups? Let's connect on [LinkedIn](https:
 
 ---
 
-- **Principals**: Psycological Safety, Team Topologies, DDD, Clean Architecture
+- **Principals**: Psycological Safety, Radical Candor, Team Topologies, DDD, Clean Architecture
 - **Tools**: ClickUp, Jira, Linear, Miro, Notion, Figma, Project IDX
 - **Cloud**: GCP, Kubernetes, Pulumi, BigQuery, Vertex AI
 - **Frameworks**: Flutter, FastAPI, NumPy, React, Astro
