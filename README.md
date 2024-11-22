@@ -12,7 +12,7 @@ Want to talk tech and/or startups?
 
 ---
 
-- **Languages**: Python, Go, Dart, JavaScript 
-- **Frameworks**: Flutter, FastAPI, NumPy, React, Astro 
-- **Cloud**: GCP, Kubernetes, Pulumi, BigQuery, Vertex AI 
-- **Tools**: ClickUp, Jira, Linear, Miro, Notion, Figma, Project IDX 
+- **Languages**: Python, Go, Dart, JavaScript, Ruby
+- **Frameworks**: Flutter, FastAPI, NumPy, React, Astro
+- **Cloud**: GCP, Kubernetes, Pulumi, BigQuery, Vertex AI
+- **Tools**: ClickUp, Jira, Linear, Miro, Notion, Figma, Project IDX
