@@ -8,7 +8,7 @@ I specialize in crafting **data-driven, real-time, people-first platforms** that
 
 ### Why Connect?
 
-Want to collaborate on tech driven startups?
+Want to collaborate on tech driven startups? Let's connect on [LinkedIn](https://www.linkedin.com/in/keolo/).
 
 ---
 
