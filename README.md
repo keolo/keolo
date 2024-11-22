@@ -8,7 +8,7 @@ I specialize in crafting **data-driven, real-time, people-first platforms** that
 
 ### Why Connect?
 
-Want to talk tech and/or startups?
+Want to collaborate on tech driven startups?
 
 ---
 
