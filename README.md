@@ -16,3 +16,4 @@ Want to talk tech and/or startups?
 - **Frameworks**: Flutter, FastAPI, NumPy, React, Astro
 - **Cloud**: GCP, Kubernetes, Pulumi, BigQuery, Vertex AI
 - **Tools**: ClickUp, Jira, Linear, Miro, Notion, Figma, Project IDX
+- **Methods**: Psycological Safety, Team Topologies, Clean Architecture
