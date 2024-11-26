@@ -4,7 +4,7 @@ With over 20 years of product/engineering/strategy experience, I've had the priv
 
 ### What I Do
 
-I specialize in crafting **data-driven, real-time, people-first platforms** that leverage cutting-edge AI and cloud technologies. My expertise lies in building scalable systems, leading globally distributed teams, and turning ideas into successful ventures.
+I specialize in crafting **data-driven, real-time, people-first platforms** that leverage cutting-edge AI and cloud technologies. My expertise lies in building adaptable systems, leading globally distributed teams, and turning ideas into successful ventures.
 
 ### Why Connect?
 
