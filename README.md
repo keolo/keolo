@@ -1,6 +1,6 @@
 ## Hi, I'm Keolo 🤙
 
-With over 20 years of product/engineering/strategy experience, I've had the privilege of driving innovation and delivering impactful solutions across startups, mid-market, and enterprise environments. My journey spans contributions to 15+ startups, including 5 successful exits (as an IC/Manager), and remarkably, millions of downloads for my open-source library, `mixpanel_client`.
+With over 20 years of product/engineering/strategy experience, I've had the privilege of driving innovation and delivering impactful solutions across startups, mid-market, and enterprise environments. My journey spans contributions to over 15 startups, including 5 successful exits (as an IC/Manager), and remarkably, millions of downloads for my open-source library, `mixpanel_client`.
 
 ### What I Do
 
