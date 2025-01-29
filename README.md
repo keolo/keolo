@@ -13,7 +13,7 @@ Want to collaborate on building tech enabled startups? Let's connect on [LinkedI
 ---
 
 - **Principals**: Psycological Safety, Radical Candor, Team Topologies, DDD
-- **Tools**: Linear, Project IDX, Figma, ClickUp, Jira, Miro
 - **Cloud**: GCP, Kubernetes, Pulumi, BigQuery, Vertex AI
 - **Frameworks**: Flutter, FastAPI, Astro, TensorFlow
 - **Languages**: Python, Go, Dart, JavaScript, Ruby
+- **Tools**: Linear, Project IDX, Figma, ClickUp, Jira
