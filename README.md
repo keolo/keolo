@@ -16,4 +16,4 @@ Want to collaborate on building tech enabled startups? Let's connect on [LinkedI
 - **Cloud**: GCP, Kubernetes, OpenTofu, BigQuery, Vertex AI
 - **Frameworks**: LangChain, Flutter, Astro, TensorFlow
 - **Languages**: Go, Python, Dart, JavaScript, Ruby
-- **Tools**: Vim, Linear, Figma, ClickUp, Jira
+- **Tools**: Vim, Figma, Linear, ClickUp, Jira
