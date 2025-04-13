@@ -14,6 +14,6 @@ Want to collaborate on building tech enabled startups? Let's connect on [LinkedI
 
 - **Principals**: Psycological Safety, Radical Candor, Team Topologies, DDD, Clean Code
 - **Cloud**: GCP, Kubernetes, OpenTofu, BigQuery, Vertex AI
-- **Frameworks**: Flutter, FastAPI, Astro, TensorFlow
+- **Frameworks**: LangChain, Flutter, Astro, TensorFlow
 - **Languages**: Go, Python, Dart, JavaScript, Ruby
 - **Tools**: Vim, Linear, Figma, ClickUp, Jira
