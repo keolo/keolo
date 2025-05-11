@@ -4,7 +4,7 @@ With over 20 years of product/engineering/strategy experience, I've had the priv
 
 ### What I Do
 
-I specialize in crafting **data-driven, cross-platform, people-first technology** that leverages advanced AI and cloud engineering. My expertise lies in building scalable systems, leading globally distributed teams, and turning ideas into successful ventures.
+I specialize in crafting **data-driven, cross-platform, people-first technology** that leverages AI and cloud engineering. My expertise lies in building scalable systems, leading globally distributed teams, and turning ideas into successful ventures.
 
 ### Connect
 
@@ -13,7 +13,7 @@ Want to collaborate on building tech enabled startups? Let's connect on [LinkedI
 ---
 
 - **Principals**: Psycological Safety, Radical Candor, Team Topologies, DDD, Clean Code
-- **Cloud**: GCP, Kubernetes, OpenTofu, BigQuery, Vertex AI
-- **Tools**: Vim, VS Code, Figma, Linear, ClickUp, Jira
-- **Frameworks**: LangChain, Flutter, Astro, TensorFlow
 - **Languages**: Go, Python, Dart, JavaScript, Ruby
+- **Frameworks**: LangChain, Flutter, Astro, TensorFlow
+- **Infra**: GCP, Kubernetes, OpenTofu, BigQuery, Vertex AI
+- **Tools**: Vim, VS Code, Figma, Linear, GitLab, Jira
