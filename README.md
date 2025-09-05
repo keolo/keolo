@@ -4,10 +4,10 @@ I build things that scale—from 0→1 MVPs to globally distributed teams delive
 
 ## What I Do
 
-* 🚀 **Fractional CTO / Advisor** — partner with founders to turn ideas into revenue-generating products.
 * 🧠 **Tech Strategy** — align engineering with business goals, ensuring compliance (SOC 2, HIPAA, HITRUST) and capability.
-* 🌍 **Team Builder** — scale distributed teams while keeping attrition <1%.
+* 🚀 **Fractional CTO / Advisor** — partner with founders to turn ideas into revenue-generating products.
 * ⚙️ **Systems Engineer** — from AI/ML data pipelines to microservices at enterprise scale.
+* 🌍 **Team Builder** — scale distributed teams while keeping attrition <1%.
 
 ## Tech Stack
 
