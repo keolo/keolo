@@ -1,19 +1,24 @@
-## Hi, I'm Keolo 🤙
+# Hi, I’m Keolo 🤙
 
-With decades of product/engineering/strategy experience, I've had the privilege of driving innovation and delivering impactful solutions across startups, mid-market, and enterprise environments. My journey spans contributions to dozens of startups, including successful exits (as an IC/Manager), and remarkably, millions of downloads for my open-source library, `mixpanel_client`.
+I build things that scale—from 0→1 MVPs to globally distributed teams delivering secure, AI-powered products. Over the last 20+ years, I’ve helped launch **25+ startups**, many have gone on to exit, and shipped software that’s reached **millions of users** (including an OSS library with 4M+ downloads).
 
-### What I Do
+## What I Do
 
-I specialize in crafting **data-driven, cross-platform, people-first technology** that leverages AI and cloud engineering. My expertise lies in building scalable systems, leading globally distributed teams, and turning ideas into successful ventures.
+* 🚀 **Fractional CTO / Advisor** — partner with founders to turn ideas into revenue-generating products.
+* 🧠 **Tech Strategy** — align engineering with business goals, ensuring compliance (SOC 2, HIPAA, HITRUST) and scalability.
+* 🌍 **Team Builder** — scaled distributed teams from 0→30 while keeping attrition <1%.
+* ⚙️ **Systems Engineer** — from AI/ML data pipelines to microservices at enterprise scale.
 
-### Connect
+## Tech Stack (a sampler platter)
 
-Want to collaborate on building tech enabled startups? Let's connect on [LinkedIn](https://www.linkedin.com/in/keolo/).
+* **Principles** → Psychological Safety · Radical Candor · Team Topologies · DDD · Clean Architecture
+* **Infra** → GCP · Kubernetes · OpenTofu · BigQuery · Vertex AI · AWS
+* **Frameworks** → LangChain · Flutter · Astro · TensorFlow · React · Rails
+* **Tools** → Vim · VS Code · Figma · Linear · GitLab · Jira · Miro · Notion
+* **Languages** → Go · Python · Dart · JavaScript · Ruby
 
----
+## Let’s Connect
 
-- **Principals**: Psycological Safety, Radical Candor, Team Topologies, DDD, Clean Architecture
-- **Infra**: GCP, Kubernetes, OpenTofu, BigQuery, Vertex AI
-- **Frameworks**: LangChain, Flutter, Astro, TensorFlow
-- **Tools**: Vim, VS Code, Figma, Linear, GitLab, Jira
-- **Languages**: Go, Python, Dart, JavaScript, Ruby
+Interested in building **tech-enabled startups** or need a **Fractional CTO** to accelerate your roadmap?
+
+👉 [Find me on LinkedIn](https://www.linkedin.com/in/keolo)
