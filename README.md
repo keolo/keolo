@@ -5,16 +5,16 @@ I build things that scale—from 0→1 MVPs to globally distributed teams delive
 ## What I Do
 
 * 🚀 **Fractional CTO / Advisor** — partner with founders to turn ideas into revenue-generating products.
-* 🧠 **Tech Strategy** — align engineering with business goals, ensuring compliance (SOC 2, HIPAA, HITRUST) and scalability.
-* 🌍 **Team Builder** — scaled distributed teams from 0→30 while keeping attrition <1%.
+* 🧠 **Tech Strategy** — align engineering with business goals, ensuring compliance (SOC 2, HIPAA, HITRUST) and capability.
+* 🌍 **Team Builder** — scale distributed teams while keeping attrition <1%.
 * ⚙️ **Systems Engineer** — from AI/ML data pipelines to microservices at enterprise scale.
 
 ## Tech Stack (a sampler platter)
 
 * **Principles** → Psychological Safety · Radical Candor · Team Topologies · DDD · Clean Architecture
-* **Infra** → GCP · Kubernetes · OpenTofu · BigQuery · Vertex AI · AWS
 * **Frameworks** → LangChain · Flutter · Astro · TensorFlow · React · Rails
-* **Tools** → Vim · VS Code · Figma · Linear · GitLab · Jira · Miro · Notion
+* **Infra** → GCP · Kubernetes · OpenTofu · BigQuery · Vertex AI · AWS
+* **Tools** → Vim · VS Code · Figma · Linear · GitLab · GitHub
 * **Languages** → Go · Python · Dart · JavaScript · Ruby
 
 ## Let’s Connect
