@@ -9,7 +9,7 @@ I build things that scale—from 0→1 MVPs to globally distributed teams delive
 * 🌍 **Team Builder** — scale distributed teams while keeping attrition <1%.
 * ⚙️ **Systems Engineer** — from AI/ML data pipelines to microservices at enterprise scale.
 
-## Tech Stack (a sampler platter)
+## Tech Stack
 
 * **Principles** → Psychological Safety · Radical Candor · Team Topologies · DDD · Clean Architecture
 * **Frameworks** → LangChain · Flutter · Astro · TensorFlow · React · Rails
