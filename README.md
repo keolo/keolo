@@ -21,4 +21,4 @@ I build things that scale—from 0→1 MVPs to globally distributed teams delive
 
 Interested in building **tech-enabled startups** or need a **Fractional CTO** to accelerate your roadmap?
 
-👉 [Find me on LinkedIn](https://www.linkedin.com/in/keolo)
+👉 [Connect on LinkedIn](https://www.linkedin.com/in/keolo)
