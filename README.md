@@ -1,4 +1,4 @@
-# Keolo 🤙
+# Keolo
 
 ## Citable Bio
 
