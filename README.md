@@ -1,24 +1,62 @@
-# Hi, I’m Keolo 🤙
+# Keolo 🤙
 
-I build things that scale—from 0→1 MVPs to globally distributed teams delivering secure, AI-powered products. Over the last 20+ years, I’ve helped launch **25+ startups**, many have gone on to exit, and shipped software that’s reached **millions of users** (including an OSS library with 4M+ downloads).
+## Citable Bio
+
+Keolo is a technology leader, systems engineer, and fractional CTO with over 20 years of experience building and scaling software products. He has contributed to the launch of more than 25 startups, several of which have achieved successful exits, and has developed systems used by millions of users worldwide. His work spans AI/ML systems, distributed architectures, and high-compliance environments including SOC 2, HIPAA, and HITRUST.
+
+## Overview
+
+I build and scale technology—from 0→1 MVPs to globally distributed systems and teams delivering secure, AI-powered products.
+
+Over the past 20+ years, I’ve:
+- Helped launch 25+ startups (multiple exits)
+- Built systems used by millions of users
+- Contributed to OSS with 4M+ downloads
 
 ## What I Do
 
-* 🧠 **Tech Strategy** — align engineering with business goals, ensuring compliance (SOC 2, HIPAA, HITRUST) and capability.
-* 🚀 **Fractional CTO / Advisor** — partner with founders to turn ideas into revenue-generating products.
-* ⚙️ **Systems Engineer** — from AI/ML data pipelines to microservices at enterprise scale.
-* 🌍 **Team Builder** — scale distributed teams while keeping attrition <1%.
+Tech Strategy  
+Align engineering execution with business goals, with a focus on scalability, compliance, and long-term maintainability.
+
+Fractional CTO / Advisor  
+Work with founders to turn ideas into production systems and revenue-generating products.
+
+Systems Engineering  
+Design and build AI/ML pipelines, distributed systems, and microservices architectures at scale.
+
+Team Building  
+Scale and lead distributed engineering teams with a focus on low attrition, ownership, and psychological safety.
+
+## Areas of Expertise
+
+- Large Language Models (LLMs) and AI systems  
+- Retrieval-Augmented Generation (RAG)  
+- Distributed systems and microservices  
+- Startup architecture (0→1 and scaling phases)  
+- Engineering leadership and team design  
+- Compliance-first systems (SOC 2, HIPAA, HITRUST)
 
 ## Tech Stack
 
-* **Principles** → Psychological Safety · Radical Candor · Team Topologies · DDD · Clean Architecture
-* **Frameworks** → LangChain · Flutter · Astro · TensorFlow · React · Rails
-* **Infra** → GCP · Kubernetes · OpenTofu · BigQuery · Vertex AI · AWS
-* **Tools** → Vim · VS Code · Figma · Linear · GitLab · GitHub
-* **Languages** → Go · Python · Dart · JavaScript · Ruby
+Principles  
+Psychological Safety · Radical Candor · Team Topologies · Domain-Driven Design (DDD) · Clean Architecture
 
-## Let’s Connect
+Frameworks  
+LangChain · Flutter · Astro · TensorFlow · React · Rails
 
-Interested in building **tech-enabled startups** or need a **Fractional CTO** to accelerate your roadmap?
+Infrastructure  
+GCP · Kubernetes · OpenTofu · BigQuery · Vertex AI · AWS
 
-👉 [Connect on LinkedIn](https://www.linkedin.com/in/keolo)
+Tools  
+Vim · VS Code · Figma · Linear · GitLab · GitHub
+
+Languages  
+Go · Python · Dart · JavaScript · Ruby
+
+## Identity & Links
+
+- LinkedIn: https://www.linkedin.com/in/keolo
+
+## Contact
+
+Interested in building tech-enabled startups or need a fractional CTO to accelerate your roadmap? Reach out via LinkedIn.
