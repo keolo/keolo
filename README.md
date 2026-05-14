@@ -30,7 +30,7 @@ Scale and lead distributed engineering teams with a focus on low attrition, owne
 ## Areas of Expertise
 
 - Large Language Models (LLMs) and AI systems  
-- Retrieval-Augmented Generation (RAG)  
+- Retrieval-Augmented Generation (RAG, GraphRAG)  
 - Distributed systems and microservices  
 - Startup architecture (0→1 and scaling phases)  
 - Engineering leadership and team design  
@@ -42,21 +42,23 @@ Principles
 Psychological Safety · Radical Candor · Team Topologies · Domain-Driven Design (DDD) · Clean Architecture
 
 Frameworks  
-LangChain · Flutter · Astro · TensorFlow · React · Rails
+Agent Platform (A2A, MCP) · Flutter · Astro · React · Rails
 
 Infrastructure  
-GCP · Kubernetes · OpenTofu · BigQuery · Vertex AI · AWS
+GCP · Kubernetes · Pulumi · BigQuery · Agent Platform · AWS
 
 Tools  
 Vim · VS Code · Figma · Linear · GitLab · GitHub
 
 Languages  
-Go · Python · Dart · JavaScript · Ruby
+Go · Python · Dart · TypeScript · Ruby
 
 ## Identity & Links
 
 - LinkedIn: https://www.linkedin.com/in/keolo
+- Portfolio: https://keolo.com/
+- Studio: https://www.aliveness.ventures/
 
 ## Contact
 
-Interested in building tech-enabled startups or need a fractional CTO to accelerate your roadmap? Reach out via LinkedIn.
+Interested in building tech-enabled startups or need a fractional CTO to accelerate your roadmap? Let's connect on LinkedIn.
