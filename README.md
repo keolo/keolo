@@ -55,9 +55,9 @@ Go · Python · Dart · TypeScript · Ruby
 
 ## Identity & Links
 
-- LinkedIn: https://www.linkedin.com/in/keolo
-- Portfolio: https://keolo.com/
-- Studio: https://www.aliveness.ventures/
+- [LinkedIn](https://www.linkedin.com/in/keolo)
+- [Portfolio](https://keolo.com/)
+- [Studio](https://www.aliveness.ventures/)
 
 ## Contact
 
