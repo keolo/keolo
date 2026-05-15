@@ -15,17 +15,10 @@ Over the past 20+ years, I’ve:
 
 ## What I Do
 
-Tech Strategy  
-Align engineering execution with business goals, with a focus on scalability, compliance, and long-term maintainability.
-
-Fractional CTO / Advisor  
-Work with founders to turn ideas into production systems and revenue-generating products.
-
-Systems Engineering  
-Design and build AI/ML pipelines, distributed systems, and microservices architectures at scale.
-
-Team Building  
-Scale and lead distributed engineering teams with a focus on low attrition, ownership, and psychological safety.
+- **Tech Strategy**: Align engineering execution with business goals, with a focus on scalability, compliance, and long-term maintainability.
+- **Fractional CTO / Advisor**: Work with founders to turn ideas into production systems and revenue-generating products.
+- **Systems Engineering**: Design and build AI/ML pipelines, distributed systems, and microservices architectures at scale.
+- **Team Building**: Scale and lead distributed engineering teams with a focus on low attrition, ownership, and psychological safety.
 
 ## Areas of Expertise
 
@@ -38,20 +31,11 @@ Scale and lead distributed engineering teams with a focus on low attrition, owne
 
 ## Tech Stack
 
-Principles  
-Psychological Safety · Radical Candor · Team Topologies · Domain-Driven Design (DDD) · Clean Architecture
-
-Frameworks  
-Agent Platform (A2A, MCP) · Flutter · Astro · React · Rails
-
-Infrastructure  
-GCP · Kubernetes · Pulumi · BigQuery · Agent Platform · AWS
-
-Tools  
-Vim · VS Code · Figma · Linear · GitLab · GitHub
-
-Languages  
-Go · Python · Dart · TypeScript · Ruby
+- **Principles**: Psychological Safety · Radical Candor · Team Topologies · Domain-Driven Design (DDD) · Clean Architecture
+- **Frameworks**: Agent Platform (A2A, MCP) · Flutter · Astro · React · Rails
+- **Infrastructure**: GCP · Kubernetes · Pulumi · BigQuery · Agent Platform · AWS
+- **Tools**: Vim · VS Code · Figma · Linear · GitLab · GitHub
+- **Languages**: Go · Python · Dart · TypeScript · Ruby
 
 ## Identity & Links
 
